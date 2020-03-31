@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "412947262331",
+    "firebase_url": "https://varietyislandproject.firebaseio.com",
+    "project_id": "varietyislandproject",
+    "storage_bucket": "varietyislandproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412947262331:android:657065607c2ebf933a2bde",
+        "android_client_info": {
+          "package_name": "com.example.varietyislandproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412947262331-67nhnl52fonpdu4jcak60uiir0a9qb3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.varietyislandproject",
+            "certificate_hash": "0955904f8892fa9d10cab003f7d7649b1906b4dc"
+          }
+        },
+        {
+          "client_id": "412947262331-gr913a19va2o0s1jnfar3a8onfc8dva8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKsotJtAu-hPPOHY5rtFh_D66NFeglmsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412947262331-gr913a19va2o0s1jnfar3a8onfc8dva8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
